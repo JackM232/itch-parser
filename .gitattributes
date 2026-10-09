@@ -1,1 +1,3 @@
 * text=auto eol=lf
+model/*.py linguist-detectable=false
+tb/*.py linguist-detectable=false
