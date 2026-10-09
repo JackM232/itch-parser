@@ -8,3 +8,4 @@ vivado/
 .Xil/
 *.jou
 *.log
+clockInfo.txt
