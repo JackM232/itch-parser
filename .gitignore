@@ -1,0 +1,10 @@
+data/
+sim_build/
+results.xml
+__pycache__/
+*.vcd
+*.fst
+vivado/
+.Xil/
+*.jou
+*.log
